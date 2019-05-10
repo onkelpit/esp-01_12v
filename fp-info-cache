@@ -1,43 +1,64 @@
-9338268554011
-Connector_BarrelJack
-BarrelJack_CUI_PJ-036AH-SMT_Horizontal
-Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf
-Power Jack SMT
+14007402829319
+TerminalBlock
+TerminalBlock_Altech_AK300-2_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
+0
+2
+2
+TerminalBlock
+TerminalBlock_Altech_AK300-3_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
 0
 3
 3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
+TerminalBlock
+TerminalBlock_Altech_AK300-4_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
 0
 4
+4
+TerminalBlock
+TerminalBlock_bornier-2_P5.08mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+TerminalBlock
+TerminalBlock_bornier-3_P5.08mm
+simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
+terminal block bornier3
+0
 3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
-Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
-barrel jack cui dc power
+3
+TerminalBlock
+TerminalBlock_bornier-4_P5.08mm
+simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
+terminal block bornier4
 0
 4
-3
-Connector_BarrelJack
-BarrelJack_CUI_PJ-102AH_Horizontal
-Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
-Power Jack
+4
+TerminalBlock
+TerminalBlock_bornier-5_P5.08mm
+simple 5-pin terminal block, pitch 5.08mm, revamped version of bornier5
+terminal block bornier5
 0
-3
-3
-Connector_BarrelJack
-BarrelJack_Horizontal
-DC Barrel Jack
-Power Jack
+5
+5
+TerminalBlock
+TerminalBlock_bornier-6_P5.08mm
+simple 6pin terminal block, pitch 5.08mm, revamped version of bornier6
+terminal block bornier6
 0
-3
-3
-Connector_BarrelJack
-BarrelJack_Wuerth_6941xx301002
-Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
-connector barrel jack
+6
+6
+TerminalBlock
+TerminalBlock_Wuerth_691311400102_P7.62mm
+https://katalog.we-online.de/em/datasheet/6913114001xx.pdf
+Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm
 0
-3
-3
+2
+2

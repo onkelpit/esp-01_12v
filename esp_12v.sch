@@ -196,7 +196,7 @@ U 1 1 5CD0D381
 P 900 2450
 F 0 "J1" H 957 2775 50  0000 C CNN
 F 1 "12V Input" H 957 2684 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm" H 950 2410 50  0001 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 950 2410 50  0001 C CNN
 F 3 "~" H 950 2410 50  0001 C CNN
 	1    900  2450
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5CD0DE8B
 P 4100 2450
 F 0 "J2" H 4157 2775 50  0000 C CNN
 F 1 "12V for Load" H 4157 2684 50  0000 C CNN
-F 2 "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm" H 4150 2410 50  0001 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 4150 2410 50  0001 C CNN
 F 3 "~" H 4150 2410 50  0001 C CNN
 	1    4100 2450
 	1    0    0    -1  
